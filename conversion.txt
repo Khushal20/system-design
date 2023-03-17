@@ -1,0 +1,20 @@
+1 × 10^3 kilo
+
+1 × 10^6 million
+
+1 × 10^9 billion
+
+
+1day -> 86400sec~10^5
+
+
+1kb 1 X 10^3 byte
+
+1mb 1 X 10^6 byte
+
+1gb 1 X 10^9 byte
+
+1tb 1 X 10^12 byte
+
+1pb 1 X 10^15 byte
+
